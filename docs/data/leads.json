@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "nowcoder-pdd-product-trainee-shanghai-2027",
+    "trust": "B",
+    "trustReason": "牛客职位页展示上海寻梦信息技术有限公司招聘人员、完整职责、2027届要求和有效投递窗口；仍需在拼多多校招官网核验正式流程。",
+    "company": "拼多多集团-PDD",
+    "title": "产品管培生（上海）",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "产品助理",
+    "city": "上海",
+    "platform": "牛客网",
+    "date": "2026-07-10（投递起始日）",
+    "checked": "2026-08-19",
+    "summary": "分析B端和C端用户需求，设计产品方案，并协同技术、设计团队推动项目落地；要求2027届本科及以上，重视数据分析、用户视角和项目推动能力。",
+    "risks": [
+      "第三方职位页，投递前需在拼多多校招官网确认岗位仍开放",
+      "理工科背景和产品实习经历为优先项"
+    ],
+    "url": "https://www.nowcoder.com/jobs/detail/453184?urlSource=sitemap",
+    "status": "open"
+  },
+  {
+    "id": "shixiseng-pdd-operations-trainee-shanghai-2027",
+    "trust": "B",
+    "trustReason": "实习僧校招页提供公司、上海办公地点、完整职责、2027届要求、刷新日期和截止日期；正式发布身份仍需通过拼多多校招官网复核。",
+    "company": "拼多多集团-PDD",
+    "title": "运营管培生（上海）",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "消费产品运营",
+    "city": "上海",
+    "platform": "实习僧",
+    "date": "2026-08-02（页面刷新日）",
+    "checked": "2026-08-19",
+    "summary": "通过消费趋势、业务数据和用户调研洞察需求与痛点，改善平台秩序及商家和消费者体验；面向2027届本科及以上。",
+    "risks": [
+      "第三方职位页，需从公司校招官网确认正式投递入口",
+      "岗位强调适应快节奏和高变化环境"
+    ],
+    "url": "https://www.shixiseng.com/intern/inn_wl9vevokva38?pcm=pc_SearchList",
+    "status": "open"
+  },
+  {
+    "id": "nowcoder-pdd-user-experience-operations-shanghai-2027",
+    "trust": "B",
+    "trustReason": "牛客职位页展示企业招聘人员、上海地点、2027届要求、完整职责和明确投递窗口；仍需通过拼多多官方校招入口确认流程。",
+    "company": "拼多多集团-PDD",
+    "title": "用户体验运营管培（多语种优势-上海-2027届）",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "内容/增长运营",
+    "city": "上海",
+    "platform": "牛客网",
+    "date": "2026-07-03（投递起始日）",
+    "checked": "2026-08-19",
+    "summary": "围绕用户体验和满意度，从事项目管理、用户研究与数据洞察、服务策略设计或质量复盘，推动产品功能与业务流程持续迭代。",
+    "risks": [
+      "第三方职位页，需在公司校招官网确认岗位和投递入口",
+      "培养路径包含供应商管理和服务质量管理，需确认实际分配方向"
+    ],
+    "url": "https://www.nowcoder.com/jobs/detail/453611",
+    "status": "open"
+  },
+  {
+    "id": "niuqizp-rednote-video-creator-product-operations-shanghai-2027",
+    "trust": "B",
+    "trustReason": "公开校招聚合页标注信息来自小红书官网，并提供2027届全职岗位的城市、发布日期、职责和要求；公司控制的当前申请入口仍需人工确认。",
+    "company": "小红书",
+    "title": "2027届马当路练习生-视频作者产品运营",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "消费产品运营",
+    "city": "上海",
+    "platform": "牛企直聘校招",
+    "date": "2026-07-29",
+    "checked": "2026-08-19",
+    "summary": "负责视频作者中台产品运营，通过作者教育、活动与激励提升功能渗透，输出需求并推动产品上线迭代，协同产品、算法和商业化团队完善创作者工具。",
+    "risks": [
+      "聚合转载页，需在小红书招聘官网或招聘小程序确认当前申请入口",
+      "岗位同时列出北京和上海，投递时需选择上海"
+    ],
+    "url": "https://s.niuqizp.com/j_campus_%E2%80%9C%E9%A9%AC%E5%BD%93%E8%B7%AF%E7%BB%83%E4%B9%A0%E7%94%9F%E2%80%9C/?ur=article",
+    "status": "needs_recheck"
+  }
+]
