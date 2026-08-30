@@ -199,5 +199,26 @@
     ],
     "url": "https://www.nowcoder.com/jobs/detail/462052?urlSource=sitemap",
     "status": "needs_recheck"
+  },
+  {
+    "id": "xpeng-ai-product-manager-guangzhou-2027",
+    "trust": "B",
+    "trustReason": "牛客网公开职位页展示广州小鹏汽车科技有限公司招聘经理、广州地点、2027届要求、完整职责和投递时间；正式招聘流程仍需通过小鹏招聘官网核验。",
+    "company": "小鹏汽车",
+    "title": "AI产品经理",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "产品助理",
+    "city": "广州",
+    "platform": "牛客网",
+    "date": "2026-08-22（投递起始日）",
+    "checked": "2026-08-30",
+    "summary": "面向真实业务场景进行AI产品需求挖掘、方案与原型设计、上线推进和效果迭代，并协同研发、算法、设计与业务团队完成项目闭环；面向2027届本科及以上应届生。",
+    "risks": [
+      "第三方职位页，投递前须通过小鹏招聘官网确认岗位与正式申请入口",
+      "页面展示的投递截止日期异常长，需人工确认岗位当前真实有效期",
+      "岗位优先计算机、人工智能、软件工程、自动化或数学相关专业，并偏好AI应用搭建或编程实践"
+    ],
+    "url": "https://www.nowcoder.com/jobs/detail/462323",
+    "status": "needs_recheck"
   }
 ]
