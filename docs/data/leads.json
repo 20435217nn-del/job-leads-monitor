@@ -240,5 +240,45 @@
     ],
     "url": "https://www.shushuqiuzhi.com/position/384554",
     "status": "needs_recheck"
+  },
+  {
+    "id": "recruitnet-nio-ai-product-operations-shanghai-2027",
+    "trust": "B",
+    "trustReason": "Recruit.net 的公开职位页列出 NIO、上海地点、2027届正式校招类别、职位 ID、职责和要求；聚合页的发布身份及正式申请入口仍需通过蔚来招聘官网人工核验。",
+    "company": "蔚来 NIO",
+    "title": "校招-AI产品运营",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "AI/B端产品运营",
+    "city": "上海",
+    "platform": "Recruit.net",
+    "date": "2026-08-26（页面显示6天前发布）",
+    "checked": "2026-09-01",
+    "summary": "参与数字化与AI产品的用户调研、需求分析、功能推广及增长运营，运用数据洞察、内容传播和跨团队协作推动产品迭代；面向2027届本科或硕士毕业生。",
+    "risks": [
+      "第三方聚合职位页，投递前需在蔚来招聘官网确认职位 ID A184703 的当前状态与正式申请入口",
+      "岗位偏好AI相关工科背景及AI产品实践，需结合自身经历确认要求"
+    ],
+    "url": "https://www.recruit.net/job/-ai-jobs/6CDE5E147F616BF3",
+    "status": "needs_recheck"
+  },
+  {
+    "id": "recruitnet-nio-ai-native-product-manager-shanghai-hefei-2027",
+    "trust": "B",
+    "trustReason": "Recruit.net 的公开职位页列出 NIO、上海/合肥地点、2027届正式校招类别、职位 ID、职责和要求；聚合页的发布身份及正式申请入口仍需通过蔚来招聘官网人工核验。",
+    "company": "蔚来 NIO",
+    "title": "校招-AI原生产品经理/产品工程师",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "产品助理",
+    "city": "上海/合肥",
+    "platform": "Recruit.net",
+    "date": "2026-08-27（页面显示5天前发布）",
+    "checked": "2026-09-01",
+    "summary": "参与AI原生软件的需求分析、方案设计、体验优化与上线迭代，结合原型、实验和数据分析推进智能汽车场景的AI产品落地；面向2027届本科或硕士毕业生。",
+    "risks": [
+      "第三方聚合职位页，投递前需在蔚来招聘官网确认职位 ID A195566 的当前状态、实际工作城市和正式申请入口",
+      "岗位偏好AI产品项目、Prompt Engineering或AI Agent实践，需结合自身经历确认要求"
+    ],
+    "url": "https://www.recruit.net/job/-ai--jobs/B9A4B0FA9E6E4916",
+    "status": "needs_recheck"
   }
 ]
