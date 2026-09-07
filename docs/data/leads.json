@@ -280,5 +280,45 @@
     ],
     "url": "https://www.recruit.net/job/-ai--jobs/B9A4B0FA9E6E4916",
     "status": "needs_recheck"
+  },
+  {
+    "id": "0ctf-ctrip-product-operations-shanghai-2027-mj036683",
+    "trust": "B",
+    "trustReason": "公开职位聚合页显示携程2027届全职产品运营岗位、上海地点、职责、要求及当前应聘入口；职位原文与正式申请状态仍需通过携程招聘官网核验。",
+    "company": "携程",
+    "title": "产品运营（2027届秋招）",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "消费产品运营",
+    "city": "上海",
+    "platform": "0CTF 职位聚合页",
+    "date": "2026-09-04（页面显示3天前发布）",
+    "checked": "2026-09-07",
+    "summary": "负责垂直行业的活动、用户增长、内容与数据运营，监控核心指标、优化运营流程，并协同产品和技术团队推动方案落地；面向2026年9月至2027年8月毕业的应届生。",
+    "risks": [
+      "第三方职位聚合页，投递前需在携程招聘官网确认职位编号 MJ036683 的当前状态与正式申请入口",
+      "页面未说明具体垂直业务线和现场办公安排，需在官网职位详情中确认"
+    ],
+    "url": "https://0ctf.net/zh/explore/job/c269-f38edeb5e9324146/%E4%BA%A7%E5%93%81%E8%BF%90%E8%90%A5-2027%E5%B1%8A%E7%A7%8B%E6%8B%9B-MJ036683-%E6%90%BA%E7%A8%8B",
+    "status": "needs_recheck"
+  },
+  {
+    "id": "watchjobs-ctrip-ai-robot-operations-shanghai-2027-mj036681",
+    "trust": "B",
+    "trustReason": "公开职位聚合页显示携程2027届全职AI机器人运营岗位、上海地点、职责、要求及携程招聘应聘入口；职位原文与正式申请状态仍需通过携程招聘官网核验。",
+    "company": "携程",
+    "title": "AI机器人运营（客服智能化方向）（2027届秋招）",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "AI/B端产品运营",
+    "city": "上海",
+    "platform": "WatchJobs 职位聚合页",
+    "date": "2026-08-26（页面显示12天前发布）",
+    "checked": "2026-09-07",
+    "summary": "设计智能客服机器人交互流程，监控服务指标并输出数据分析报告，协同AI产研团队优化语义理解和用户服务体验；面向2027届毕业生。",
+    "risks": [
+      "第三方职位聚合页，投递前需在携程招聘官网确认职位编号 MJ036681 的当前状态与正式申请入口",
+      "岗位偏好大模型、智能对话系统和数据分析经验，需结合具体要求确认匹配度"
+    ],
+    "url": "https://watchjobs.net/zh/explore/job/c269-853e6ba1d586cc1b/AI%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E8%90%A5-%E5%AE%A2%E6%9C%8D%E6%99%BA%E8%83%BD%E5%8C%96%E6%96%B9%E5%90%91-2027%E5%B1%8A%E7%A7%8B%E6%8B%9B-MJ036681-%E6%90%BA%E7%A8%8B",
+    "status": "needs_recheck"
   }
 ]
