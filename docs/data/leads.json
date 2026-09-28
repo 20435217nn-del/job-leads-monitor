@@ -400,5 +400,25 @@
     ],
     "url": "https://kylinos.zhiye.com/campus/detail?jobAdId=dec97eba-f7eb-4397-8b2a-9c1f543bd429",
     "status": "open"
+  },
+  {
+    "id": "hebut-haque-hardware-product-manager-shenzhen-2027",
+    "trust": "B",
+    "trustReason": "河北工业大学就业网公开招聘公告列出深圳市海雀科技有限公司、深圳南山地点、2027届资格、发布时间、岗位职责与要求；发布主体及正式投递流程仍需通过公司招聘渠道人工核验。",
+    "company": "海雀科技",
+    "title": "初级硬件产品经理",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "产品助理",
+    "city": "深圳",
+    "platform": "河北工业大学就业网",
+    "date": "2026-09-20",
+    "checked": "2026-09-28",
+    "summary": "协助开展用户与竞品调研、整理用户反馈、撰写调研报告和PRD，并与设计、技术团队协作推进产品项目与体验优化；面向2027届本科及以上毕业生。",
+    "risks": [
+      "高校就业网转载公告，投递前须向公司官方招聘渠道确认该岗位仍开放及正式申请流程",
+      "岗位聚焦智能硬件产品，需确认具体产品线、业务节奏与现场办公安排"
+    ],
+    "url": "https://career.hebut.edu.cn/correcruit/content/id/80941.html",
+    "status": "needs_recheck"
   }
 ]
