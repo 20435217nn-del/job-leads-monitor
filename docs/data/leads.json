@@ -243,23 +243,23 @@
   },
   {
     "id": "recruitnet-nio-ai-product-operations-shanghai-2027",
-    "trust": "B",
-    "trustReason": "Recruit.net 的公开职位页列出 NIO、上海地点、2027届正式校招类别、职位 ID、职责和要求；聚合页的发布身份及正式申请入口仍需通过蔚来招聘官网人工核验。",
+    "trust": "A",
+    "trustReason": "蔚来官方校园招聘页公开展示岗位、上海地点、2027届正式校招类别、职责要求及可进入的官方申请流程；本轮页面仍可公开访问。",
     "company": "蔚来 NIO",
     "title": "校招-AI产品运营",
     "jobType": "2027届秋招/校园招聘正式岗",
     "roleFamily": "AI/B端产品运营",
     "city": "上海",
-    "platform": "Recruit.net",
+    "platform": "蔚来校招",
     "date": "2026-08-26（页面显示6天前发布）",
-    "checked": "2026-09-01",
+    "checked": "2026-10-05",
     "summary": "参与数字化与AI产品的用户调研、需求分析、功能推广及增长运营，运用数据洞察、内容传播和跨团队协作推动产品迭代；面向2027届本科或硕士毕业生。",
     "risks": [
-      "第三方聚合职位页，投递前需在蔚来招聘官网确认职位 ID A184703 的当前状态与正式申请入口",
-      "岗位偏好AI相关工科背景及AI产品实践，需结合自身经历确认要求"
+      "岗位偏好AI相关工科背景及AI产品实践，投递前需结合自身经历确认要求",
+      "官方系统的岗位状态和后续流程以提交时页面为准"
     ],
-    "url": "https://www.recruit.net/job/-ai-jobs/6CDE5E147F616BF3",
-    "status": "needs_recheck"
+    "url": "https://nio.jobs.feishu.cn/campus/position/7673027258017679654/detail",
+    "status": "open"
   },
   {
     "id": "recruitnet-nio-ai-native-product-manager-shanghai-hefei-2027",
@@ -420,5 +420,65 @@
     ],
     "url": "https://career.hebut.edu.cn/correcruit/content/id/80941.html",
     "status": "needs_recheck"
+  },
+  {
+    "id": "dewu-merchant-fulfillment-product-operations-shanghai-2027",
+    "trust": "A",
+    "trustReason": "得物官方校园招聘页公开展示岗位、上海地点、2027届秋季校园招聘项目、职责要求及官方申请入口；本轮页面仍可公开访问。",
+    "company": "得物",
+    "title": "商家履约产品运营-得物国际",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "电商/品类运营",
+    "city": "上海",
+    "platform": "得物App校园招聘",
+    "date": "2026-10-05（本轮公开核验）",
+    "checked": "2026-10-05",
+    "summary": "负责国际电商商家入仓、库存与履约环节的产品运营，收集业务需求并协同推进方案迭代，开展商家培训与满意度调研，以数据优化商家使用体验。",
+    "risks": [
+      "岗位偏好国际电商商家履约或入仓相关实习经历，需结合自身经历确认竞争力",
+      "官方系统的岗位状态和后续流程以提交时页面为准"
+    ],
+    "url": "https://campus.dewu.com/578078/position/7677512811878189331/detail",
+    "status": "open"
+  },
+  {
+    "id": "dewu-efficiency-operations-shanghai-2027",
+    "trust": "A",
+    "trustReason": "得物官方校园招聘页公开展示岗位、上海地点、2027届秋季校园招聘项目、职责要求及官方申请入口；本轮页面仍可公开访问。",
+    "company": "得物",
+    "title": "效率运营",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "AI/B端产品运营",
+    "city": "上海",
+    "platform": "得物App校园招聘",
+    "date": "2026-10-05（本轮公开核验）",
+    "checked": "2026-10-05",
+    "summary": "参与企业内部数智化平台的产品规划和运营推广，开展需求分析、功能与体验优化及数据分析，协调业务与产品技术团队持续改进平台和流程。",
+    "risks": [
+      "岗位偏好互联网产品运营或企业信息化平台运营经历，需结合自身经历确认竞争力",
+      "官方系统的岗位状态和后续流程以提交时页面为准"
+    ],
+    "url": "https://campus.dewu.com/578078/position/7672223695294073151/detail",
+    "status": "open"
+  },
+  {
+    "id": "nio-ai-platform-product-manager-shanghai-2027-a30588",
+    "trust": "A",
+    "trustReason": "蔚来官方校园招聘页公开展示岗位、上海地点、2027届正式校招类别、职责要求及可进入的官方申请流程；本轮页面仍可公开访问。",
+    "company": "蔚来 NIO",
+    "title": "校招-AI产品经理（AI平台）",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "产品助理",
+    "city": "上海",
+    "platform": "蔚来校招",
+    "date": "2026-10-05（本轮公开核验）",
+    "checked": "2026-10-05",
+    "summary": "参与企业AI平台的Agent、知识、数据与业务场景产品设计，开展用户研究并输出需求文档、流程和原型，推动企业AI能力的配置、复用与体验优化。",
+    "risks": [
+      "岗位要求2027届硕士及以上，并优先相关专业和AI、B端或SaaS产品项目经历，需确认自身满足条件",
+      "官方系统的岗位状态和后续流程以提交时页面为准"
+    ],
+    "url": "https://nio.jobs.feishu.cn/campus/position/7673027258018564390/detail",
+    "status": "open"
   }
 ]
