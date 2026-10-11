@@ -500,5 +500,65 @@
     ],
     "url": "https://nio.jobs.feishu.cn/campus/position/7673027238186862886/detail",
     "status": "open"
+  },
+  {
+    "id": "oppo-internet-product-operations-shenzhen-2027",
+    "trust": "A",
+    "trustReason": "OPPO 官方校园招聘页公开展示岗位、深圳地点、2027届应届生类别、发布日期、职责要求及投递入口；本轮页面仍可公开访问。",
+    "company": "OPPO",
+    "title": "互联网产品运营",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "消费产品运营",
+    "city": "深圳",
+    "platform": "OPPO招聘官网",
+    "date": "2026-07-15",
+    "checked": "2026-10-11",
+    "summary": "围绕软件商店、游戏中心和广告等互联网产品开展用户需求与场景洞察、数据分析和运营服务，并探索AI能力在产品方案中的应用；面向2027届本科及以上应届生。",
+    "risks": [
+      "岗位偏好计算机、软件工程、电子信息或通信等相关专业，投递前需结合自身经历确认竞争力",
+      "官方系统的岗位状态和后续流程以提交时页面为准"
+    ],
+    "url": "https://careers.oppo.com/university/oppo/campus/post/1859?recruitType=Intern",
+    "status": "open"
+  },
+  {
+    "id": "xiaohongshu-experience-operations-shanghai-2027-22525",
+    "trust": "A",
+    "trustReason": "小红书官方校园招聘页公开展示岗位、上海/北京地点、2027校园招聘项目、职责要求及投递入口；本轮页面仍可公开访问。",
+    "company": "小红书",
+    "title": "2027校招-体验运营",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "消费产品运营",
+    "city": "上海/北京",
+    "platform": "小红书校园招聘",
+    "date": "2026-10-11（本轮公开核验）",
+    "checked": "2026-10-11",
+    "summary": "通过用户反馈、行为数据和专项调研识别社区与商业链路的体验问题，输出分析并协同产品、策略和运营团队推动服务、规则及产品能力优化；项目面向2027届校园招聘。",
+    "risks": [
+      "岗位覆盖上海和北京，投递时需在官方系统确认可选城市与岗位状态",
+      "工作内容包含社区及商业体验治理，需确认具体业务分工和现场办公安排"
+    ],
+    "url": "https://job.xiaohongshu.com/campus/position/22525?referer_code=78KSAMKBI9J4",
+    "status": "open"
+  },
+  {
+    "id": "xiaohongshu-growth-builder-creator-community-shanghai-2027-22274",
+    "trust": "A",
+    "trustReason": "小红书官方校园招聘页公开展示岗位、上海/北京地点、2027校园招聘项目、职责要求及投递入口；本轮页面仍可公开访问。",
+    "company": "小红书",
+    "title": "2027校招-Growth Builder-Creator & Community",
+    "jobType": "2027届秋招/校园招聘正式岗",
+    "roleFamily": "内容/增长运营",
+    "city": "上海/北京",
+    "platform": "小红书校园招聘",
+    "date": "2026-10-11（本轮公开核验）",
+    "checked": "2026-10-11",
+    "summary": "参与创作者与社区的冷启动、成长机制、活动和长期运营体系建设，分析内容及用户数据，并与产品、市场和品牌团队协作将社区洞察转化为增长方案；项目面向2027届校园招聘。",
+    "risks": [
+      "岗位覆盖上海和北京，投递时需在官方系统确认可选城市与岗位状态",
+      "职位强调英语作为工作语言及国际化社区、创作者运营能力，需确认具体要求"
+    ],
+    "url": "https://job.xiaohongshu.com/campus/position/22274?referer_code=MP2IQKGDY46K",
+    "status": "open"
   }
 ]
